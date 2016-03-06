@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeapDrawer.CSharp", "LeapDrawer.CSharp.csproj", "{AEE389CD-06EE-1B9C-8604-0EBD58E03006}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeapDrawer.CSharp.Editor", "LeapDrawer.CSharp.Editor.csproj", "{1111C52A-5215-197F-B58D-EB7C55747DB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEE389CD-06EE-1B9C-8604-0EBD58E03006}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEE389CD-06EE-1B9C-8604-0EBD58E03006}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEE389CD-06EE-1B9C-8604-0EBD58E03006}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEE389CD-06EE-1B9C-8604-0EBD58E03006}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1111C52A-5215-197F-B58D-EB7C55747DB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1111C52A-5215-197F-B58D-EB7C55747DB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1111C52A-5215-197F-B58D-EB7C55747DB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1111C52A-5215-197F-B58D-EB7C55747DB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
